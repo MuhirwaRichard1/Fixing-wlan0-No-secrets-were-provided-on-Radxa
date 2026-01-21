@@ -1,5 +1,5 @@
 
-# 📶 Fixing “wlan0: No secrets were provided” on Linux (NetworkManager)
+# 📶 Fixing “wlan0: No secrets were provided” on Radxa (NetworkManager)
 
 A practical, terminal-based guide to diagnosing and fixing the common Linux Wi-Fi error:
 
